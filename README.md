@@ -3,6 +3,6 @@ Course project in DH2323 by Marcus Wallberg & Johanna Gustafsson
 ## Setup
 To run the project files you need to: 
 * Set up a working version of SDL version 1
-- Xcode or Visual studio 2015 recommended
-* Add the glm library 
-* 
+  * Xcode or Visual studio 2015 recommended
+* Add the glm library to your root project directory 
+* Add main.cpp to your root project directory
